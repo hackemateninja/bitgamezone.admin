@@ -1,0 +1,196 @@
+//Variables
+$white:		#ffffff !default;
+$light:     #F3F9FF !default;
+$secondary:	#f0f0f7!default;
+$primary:	#43425d !default;
+$hardblue:  #2a518d !default;
+$grey:	    #ACBDD7 !default;
+$light-gray:#d3d3d3 !default;
+$dark-gray: #646f83 !default;
+$success:	#51cc7c !default;
+$lightgreen:#ccebf3 !default;
+$danger:	#fe666c !default;
+$warning:	#ffab00 !default;
+$yellow:    #f7dd0a !default;
+$purple:    #3b3b53 !default;
+$violet:    #b5b6fa !default;
+$black:     #3C4251 !default;
+
+$utility-colors: (
+        'white': $white,
+        'light': $light,
+        'secondary': $secondary,
+        'primary': $primary,
+        'hardblue': $hardblue,
+        'grey': $grey,
+        'light-gray': $light-gray,
+        'dark-gray': $dark-gray,
+        'success': $success,
+        'lightgreen': $lightgreen,
+        'danger': $danger,
+        'warning': $warning,
+        'yellow': $yellow,
+        'purple': $purple,
+        'violet': $violet,
+        'black': $black
+);
+//mixins
+@mixin radius($radius) {
+  -webkit-border-radius: $radius;
+  border-radius: $radius;
+}
+*{
+  -webkit-box-sizing: border-box!important;
+  -moz-box-sizing: border-box!important;
+  box-sizing: border-box!important;
+  margin: 0;
+  a{
+    text-decoration: none;
+  }
+}
+//body
+body {
+  background: $secondary;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+//text sizes
+.text-xbig {
+  font-size: 20px;
+}
+.text-big {
+  font-size: 18px;
+}
+.text-md {
+  font-size: 14px;
+}
+.text-sm {
+  font-size: 12px;
+}
+.text-xs {
+  font-size: 11px;
+}
+.text-xbig-bold {
+  font-size: 20px;
+  font-weight: bold;
+}
+.text-big-bold {
+  font-size: 18px;
+  font-weight: bold;
+}
+.text-md-bold {
+  font-size: 14px;
+  font-weight: bold;
+}
+.text-sm-bold {
+  font-size: 12px;
+  font-weight: bold;
+}
+.text-xs-bold {
+  font-size: 11px;
+  font-weight: bold;
+}
+//text align
+.text-left {
+  text-align: left;
+}
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+
+// Text, Background and Border utility colors.
+@each $key, $color in $utility-colors {
+  .text-#{$key} 	    { color: #{$color}; }
+  .bg-#{$key} 	    { background-color: #{$color}; }
+  .border-#{$key}     { border-color: #{$color}; }
+}
+
+.hover {
+  cursor: pointer;
+}
+// Border widths.
+.border-0 { border: none; }
+.border-1 { border-width: 1px; }
+.border-2 { border-width: 2px; }
+.border-3 { border-width: 3px; }
+.border-4 { border-width: 4px; }
+.border-1,
+.border-2,
+.border-3,
+.border-4 {
+  border-style: solid;
+}
+
+// Letter Spacing
+.letter-space { letter-spacing: .5px; }
+.letter-space-1 { letter-spacing: 1px; }
+.letter-space-2 { letter-spacing: 1.5px; }
+
+// Text Transform
+.text-uppercase { text-transform: uppercase; }
+.text-lowercase { text-transform: lowercase; }
+
+.sidebar{
+  background-color: $primary;
+  position: fixed;
+  width: 17%;
+  height: 100%;
+}
+.sidebar-head{
+  background-color: $purple;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .sidebar-head-logo{
+    width: 60%;
+  }
+}
+.sidebar-content{
+  width: 100%;
+  ul{
+    list-style: none;
+    width: 100%;
+    padding: 0;
+  }
+  li{
+    height: 75px;
+    width: 100%;
+    margin: 5px 0 0 0;
+    display: flex;
+    align-items: center;
+    &:hover, &:active{
+      background-color: $purple;
+      border-left: 5px solid $yellow;
+      i{
+        color: $yellow;
+      }
+    }
+  }
+  a{
+    color: $secondary;
+    font-size: 1em;
+    margin-left: 10%;
+    text-decoration: none;
+    i{
+      margin-right: 10px;
+    }
+  }
+}
+main{
+  width: 83%;
+  position: absolute;
+  right: 0;
+}
+.top-bar{
+  background-color: $white;
+  width: 100%;
+  height: 100px;
+  position: fixed;
+  top: 0;
+}
