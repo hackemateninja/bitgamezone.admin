@@ -6,29 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13e37a13-1cc5-4e60-8eb7-4c1f61360e7a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/banners.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/banners.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/categorias.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/categorias.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/facturas.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/facturas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/productos.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/productos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/settings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/sliders.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/sliders.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/solicitud.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/solicitud.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/soporte.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/soporte.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/usuarios.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/usuarios.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/banners.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/banners.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/categorias.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/categorias.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/facturas.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/facturas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/templates/productos.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/productos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/settings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/sliders.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/sliders.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/solicitud.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/solicitud.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/soporte.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/soporte.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/usuarios.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/usuarios.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,11 +29,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/templates/solicitud.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="774">
-              <caret line="282" column="37" selection-start-line="282" selection-start-column="37" selection-end-line="282" selection-end-column="37" />
+            <state relative-caret-position="67">
+              <caret line="308" column="18" lean-forward="true" selection-start-line="92" selection-start-column="12" selection-end-line="308" selection-end-column="18" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#6;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#7;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#8;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/templates/productos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="265" column="37" selection-start-line="265" selection-start-column="37" selection-end-line="265" selection-end-column="37" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -65,8 +68,6 @@
                 <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#tr#6;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#tr#7;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#tr#8;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#2;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
@@ -112,13 +113,13 @@
         <option value="$PROJECT_DIR$/src/templates/banners.html" />
         <option value="$PROJECT_DIR$/src/templates/categorias.html" />
         <option value="$PROJECT_DIR$/src/templates/facturas.html" />
-        <option value="$PROJECT_DIR$/src/templates/productos.html" />
         <option value="$PROJECT_DIR$/src/templates/settings.html" />
         <option value="$PROJECT_DIR$/src/templates/sliders.html" />
         <option value="$PROJECT_DIR$/src/templates/soporte.html" />
         <option value="$PROJECT_DIR$/src/templates/usuarios.html" />
         <option value="$PROJECT_DIR$/src/styles/style.scss" />
         <option value="$PROJECT_DIR$/src/templates/solicitud.html" />
+        <option value="$PROJECT_DIR$/src/templates/productos.html" />
       </list>
     </option>
   </component>
@@ -141,11 +142,6 @@
             <path>
               <item name="bitgameadmin" type="b2602c69:ProjectViewProjectNode" />
               <item name="bitgameadmin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bitgameadmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bitgameadmin" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bitgameadmin" type="b2602c69:ProjectViewProjectNode" />
@@ -212,12 +208,12 @@
       <workItem from="1561349110749" duration="24418000" />
       <workItem from="1561485726659" duration="1890000" />
       <workItem from="1561977313507" duration="598000" />
-      <workItem from="1562189022567" duration="4785000" />
+      <workItem from="1562189022567" duration="5661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31691000" />
+    <option name="totallyTimeSpent" value="32567000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="-1" width="1922" height="1052" extended-state="6" />
@@ -244,7 +240,7 @@
       <window_info anchor="bottom" id="Quokka" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="GraphQL" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3303671" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3303671" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32925472" />
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Palette" />
@@ -392,24 +388,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/productos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/templates/settings.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -505,10 +483,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dist/productos.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/templates/solicitud.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="282" column="37" selection-start-line="282" selection-start-column="37" selection-end-line="282" selection-end-column="37" />
+        <state relative-caret-position="67">
+          <caret line="308" column="18" lean-forward="true" selection-start-line="92" selection-start-column="12" selection-end-line="308" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#6;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#7;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#8;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/productos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="265" column="37" selection-start-line="265" selection-start-column="37" selection-end-line="265" selection-end-column="37" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -519,8 +522,6 @@
             <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#tr#6;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#tr#7;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#tr#8;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#div#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
