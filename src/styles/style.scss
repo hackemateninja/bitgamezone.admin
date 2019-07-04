@@ -4,7 +4,7 @@ $light:     #F3F9FF !default;
 $secondary:	#f0f0f7!default;
 $primary:	#43425d !default;
 $hardblue:  #2a518d !default;
-$grey:	    #ACBDD7 !default;
+$grey:	    #bcbccb !default;
 $light-gray:#d3d3d3 !default;
 $dark-gray: #646f83 !default;
 $success:	#51cc7c !default;
@@ -14,7 +14,7 @@ $warning:	#ffab00 !default;
 $yellow:    #f7dd0a !default;
 $purple:    #3b3b53 !default;
 $violet:    #b5b6fa !default;
-$black:     #3C4251 !default;
+$black:     #584f5c !default;
 
 $utility-colors: (
         'white': $white,
@@ -136,9 +136,8 @@ body {
 
 .sidebar{
   background-color: $primary;
-  position: fixed;
-  width: 17%;
-  height: 100%;
+  margin: 0;
+  padding: 0 0 7% 0;
 }
 .sidebar-head{
   background-color: $purple;
@@ -164,6 +163,7 @@ body {
     margin: 5px 0 0 0;
     display: flex;
     align-items: center;
+    justify-content: space-between;
     &:hover, &:active{
       background-color: $purple;
       border-left: 5px solid $yellow;
@@ -190,12 +190,24 @@ body {
   position: fixed;
   right: 0;
   top: 0;
+  margin: 0;
 }
 .main-content{
-  padding-top: 150px;
+  padding: 150px 0 0 0;
+  margin: 0;
 }
-
-.pagination-page{
-  display: flex;
-  justify-content: flex-end;
+.avatar-user-img{
+  width: 115px;
+  height: 115px;
+  border-radius: 50%;
+}
+.img-prod{
+  width: 50px;
+}
+.text-col{
+  display: block;
+  width: 350px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
