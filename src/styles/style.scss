@@ -140,6 +140,7 @@ body {
   background-color: $primary;
   margin: 0;
   padding: 0 0 7% 0;
+  position: fixed;
 }
 .sidebar-head{
   background-color: $purple;
@@ -193,10 +194,11 @@ body {
   right: 0;
   top: 0;
   margin: 0;
+  z-index: 100;
 }
 .main-content{
   padding: 150px 0 0 0;
-  margin: 0;
+  margin: 0 0 0 350px;
 }
 .avatar-user-img{
   width: 115px;
