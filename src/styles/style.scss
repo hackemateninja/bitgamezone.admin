@@ -141,6 +141,7 @@ body {
   margin: 0;
   padding: 0 0 7% 0;
   position: fixed;
+  z-index: 1000;
 }
 .sidebar-head{
   background-color: $purple;
@@ -198,7 +199,35 @@ body {
 }
 .main-content{
   padding: 150px 0 0 0;
-  margin: 0 0 0 350px;
+  margin: 0 0 0 340px;
+}
+.search-top-container{
+  display: flex;
+  justify-content: space-around;
+  i{
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 20px;
+  }
+}
+.search-top-input{
+  border: 0;
+  margin-right: 10px;
+  margin-top: 5px;
+  padding: 10px;
+  width: 100%;
+  font-size: 20px;
+}
+.search-top-input:focus{
+  background-color: $secondary;
+}
+.icons-top-container{
+  border-right: 0.5px solid $secondary;
+  display: flex;
+  justify-content: space-between;
+  i{
+    margin-top: 20px;
+  }
 }
 .search-user-container{
   display: flex;
@@ -223,6 +252,16 @@ body {
   width: 115px;
   height: 115px;
   border-radius: 50%;
+}
+.avatar-user-top-img{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.username-top{
+  margin-top: 40px;
+  margin-left: 0;
+  font-size: 16px;
 }
 .img-prod{
   width: 50px;
