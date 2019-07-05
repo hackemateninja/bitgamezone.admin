@@ -196,17 +196,18 @@ body {
   top: 0;
   margin: 0;
   z-index: 100;
+  padding: 0;
 }
 .main-content{
   padding: 150px 0 0 0;
-  margin: 0 0 0 340px;
+  margin: 0 0 0 350px;
 }
 .search-top-container{
   display: flex;
   justify-content: space-around;
   i{
-    margin-left: 20px;
-    margin-right: 10px;
+    margin-left: 10px;
+    margin-right: 5px;
     margin-top: 20px;
   }
 }
@@ -254,13 +255,14 @@ body {
   border-radius: 50%;
 }
 .avatar-user-top-img{
-  width: 60px;
-  height: 60px;
+  width: 55px;
+  height: 55px;
   border-radius: 50%;
+  margin: 0;
 }
 .username-top{
   margin-top: 40px;
-  margin-left: 0;
+  margin-left: -10px;
   font-size: 16px;
 }
 .img-prod{
