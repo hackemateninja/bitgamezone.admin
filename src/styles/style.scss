@@ -15,6 +15,7 @@ $yellow:    #f7dd0a !default;
 $purple:    #3b3b53 !default;
 $violet:    #b5b6fa !default;
 $black:     #584f5c !default;
+$pending:   #fff2c8 !default;
 
 $utility-colors: (
         'white': $white,
@@ -32,7 +33,8 @@ $utility-colors: (
         'yellow': $yellow,
         'purple': $purple,
         'violet': $violet,
-        'black': $black
+        'black': $black,
+        'pending': $pending,
 );
 //mixins
 @mixin radius($radius) {
